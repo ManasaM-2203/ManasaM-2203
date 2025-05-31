@@ -46,11 +46,17 @@
 </p>
 
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
+### 🧠 GitHub Stats
 ![Manasa M GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasaM-2203&show_icons=true&theme=radical)
 
----
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=ManasaM-2203&theme=radical)
+
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasaM-2203&layout=compact&theme=radical)
+
 
 ## 📫 Connect With Me  
 
