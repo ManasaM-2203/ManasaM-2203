@@ -4,11 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
-
-- 🔭 I’m currently working on **AI-Powered Project Management Systems**
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB & Advanced React**
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/ManasaM-2203)
-
+🌟 I'm a passionate and curious developer with a strong interest in Artificial Intelligence and Machine Learning
+🔭 Currently building an AI-Powered Project Management System to enhance team productivity
+🌱 Actively learning Node.js, Express.js, MongoDB, and diving deeper into Advanced React & Full-Stack Development
+💡 I love turning ideas into real-world solutions using technology
+📚 Always eager to explore the latest tools in AI, data visualization, and modern web technologies
+👨‍💻 All of my projects are available [my GitHub](https://github.com/ManasaM-2203)
 
 ## 🛠️ Tech Arsenal
 
