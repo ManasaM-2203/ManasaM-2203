@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh</h1>
+<h1 align="center">Hi 👋, Manasa M</h1>
 <h3 align="center">A passionate Full-Stack Developer & AI Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -32,7 +32,7 @@
 
 ## 📈 GitHub Stats
 
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasaM-2203&show_icons=true&theme=radical)
+![Manasa M GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasaM-2203&show_icons=true&theme=radical)
 
 ---
 
