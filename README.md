@@ -16,7 +16,6 @@
 
 👨‍💻 All of my projects are available [my GitHub](https://github.com/ManasaM-2203)
 
-## 🛠️ Tech Arsenal
 
 ## 🛠️ Tech Stack
 
